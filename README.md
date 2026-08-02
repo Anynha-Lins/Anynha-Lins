@@ -1,16 +1,41 @@
-### Hi there 👋
+# Olá, eu sou Ana Lins! 👋
 
-<!--
-**Anynha-Lins/Anynha-Lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados e Governança | Data & AI | Power BI | Python | SQL | ETL | DAMA DMBOK
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação e atuo na área de Dados, desenvolvendo soluções que transformam informações em decisões estratégicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com:
+
+- 📊 Dashboards em Power BI
+- 🐍 Automação e ETL com Python
+- 🗄️ SQL para análise e manipulação de dados
+- 📈 Excel Avançado
+- ☁️ Microsoft Azure (DP-900 em preparação)
+- 🤖 Inteligência Artificial aplicada a Dados
+
+---
+
+## 🛠 Tecnologias
+
+Power BI • Python • SQL • Excel • Pandas • Git • GitHub • Power Automate • Power Apps • Databricks
+
+---
+
+## 🎓 Atualmente estudando
+
+- Microsoft Azure DP-900
+- Databricks Data Engineer Associate
+- Engenharia de Dados
+- Inteligência Artificial
+
+---
+
+## 📫 Vamos conversar?
+
+💼 LinkedIn:
+([Ana Lins](https://www.linkedin.com/in/analins1/))
+
+📧 Email:
+(anynha-lins@hotmail.com)
+
+
